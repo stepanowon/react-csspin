@@ -30,6 +30,7 @@ yarn add react-csspin
 ~~~
 import React, { useState } from "react";
 import { ReactCsspin } from "react-csspin";
+import 'react-csspin/dist/style.css';
 
 const App = () => {
   const [message, setMessage] = useState<string>("Loading");
