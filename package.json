@@ -22,7 +22,7 @@
     "spinner",
     "csspin"
   ],
-  "description": "React Css Spinner UI Component",
+  "description": "React CSS Spinner UI Component",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
