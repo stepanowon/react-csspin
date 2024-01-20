@@ -34,7 +34,7 @@ import 'react-csspin/dist/style.css';
 ~~~
 
 
-#### NPM - example
+#### example
 ~~~
 import React, { useState } from "react";
 import { ReactCsspin } from "react-csspin";
