@@ -19,14 +19,22 @@ MIT
 ## Usage  
 
 
-#### NPM - install
+#### install & usage
 ~~~
 npm install react-csspin
-- or -
-yarn add react-csspin
+
+//import
+import { ReactCsspin } from "react-csspin";
+import 'react-csspin/dist/style.css';
+
+//usage 
+<ReactCsspin 
+  message={message} spinStyle={spinStyle}
+  color={color} opacity={Number(opacity)} />
 ~~~
 
-#### NPM - usage
+
+#### NPM - example
 ~~~
 import React, { useState } from "react";
 import { ReactCsspin } from "react-csspin";
