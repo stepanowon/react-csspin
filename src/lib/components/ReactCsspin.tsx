@@ -2,10 +2,10 @@ import PropTypes from "prop-types";
 import "./ReactCsspin.css";
 
 type PropType = {
-  message: string;
-  spinStyle: string;
-  opacity: number;
-  color: string;
+  message?: string;
+  spinStyle?: string;
+  opacity?: number;
+  color?: string;
 };
 
 const ReactCsspin = ({ message = "Loading", spinStyle = "cp-round", opacity = 0.3, color = "white" }: PropType): JSX.Element => {
