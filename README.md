@@ -1,5 +1,5 @@
 # react-csspin
-Spinner UI Component for React 18.x.
+Spinner UI Component for React 18.x.~
 This project is an wrapper of [CSSPIN](https://www.npmjs.com/package/csspin)
 
 [![npm](https://img.shields.io/npm/v/react-csspin.svg )](https://www.npmjs.com/package/react-csspin)
