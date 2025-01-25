@@ -14,8 +14,9 @@ This project is an wrapper of [CSSPIN](https://www.npmjs.com/package/csspin)
 > Author : Stephen Won(원형섭), OpenSG Inc.        
 > Online Demo : https://react-csspin.vercel.app/
 
-## React 18 : ~0.0.4
-## React 19 : 0.0.5
+## Version
+* React 19 : 0.0.5 ~
+* React 18 : ~0.0.4
 
 ## License
 MIT 
